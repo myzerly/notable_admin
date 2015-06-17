@@ -1,0 +1,22 @@
+// * {
+// 	border: 1px solid black;
+// }
+.account-list {
+	list-style-type: none;
+}
+
+.add-credits {
+	list-style-type: none;
+}
+.become-button {
+	background: dodgerblue;
+	color: white;
+	font-size: .75em;
+	padding: .5em 1em .5em 1em;
+	border-radius: 2px;
+	&.search-button {
+		line-height: 6.5;
+	}
+}
+
+
